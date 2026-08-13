@@ -1,0 +1,6 @@
+estacion,operacion,tiempo_seg 
+Estacion 1,Corte,45
+Estacion 2,Ensamble,62
+Estacion 3,Pintura,38
+Estacion 4,Empaque,25
+Estacion 5,Inspeccion,53
